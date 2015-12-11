@@ -1,0 +1,30 @@
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\bin\Debug\Pairs.exe.config
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\obj\Debug\Pairs.csprojResolveAssemblyReference.cache
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\obj\Debug\MainWindow.baml
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\obj\Debug\App.baml
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\obj\Debug\MainWindow.g.cs
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\obj\Debug\App.g.cs
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\obj\Debug\Pairs_MarkupCompile.cache
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\obj\Debug\Pairs.g.resources
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\obj\Debug\Pairs.Properties.Resources.resources
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\obj\Debug\Pairs.csproj.GenerateResource.Cache
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\obj\Debug\Pairs_MarkupCompile.lref
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\bin\Debug\Pairs.exe
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\bin\Debug\Pairs.pdb
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\obj\Debug\Pairs.exe
+c:\users\dmytro\documents\visual studio 2013\Projects\Pairs\Pairs\obj\Debug\Pairs.pdb
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\bin\Debug\Pairs.exe.config
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\obj\Debug\Pairs.exe
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\obj\Debug\Pairs.pdb
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\bin\Debug\Pairs.exe
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\bin\Debug\Pairs.pdb
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\obj\Debug\Pairs.csprojResolveAssemblyReference.cache
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\obj\Debug\App.baml
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\obj\Debug\MainWindow.g.cs
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\obj\Debug\App.g.cs
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\obj\Debug\Pairs_MarkupCompile.cache
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\obj\Debug\Pairs_MarkupCompile.lref
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\obj\Debug\MainWindow.baml
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\obj\Debug\Pairs.g.resources
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\obj\Debug\Pairs.Properties.Resources.resources
+C:\Users\dmytro\Desktop\Pairs\Pairs\Pairs\obj\Debug\Pairs.csproj.GenerateResource.Cache
